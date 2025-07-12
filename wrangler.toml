@@ -1,4 +1,4 @@
-name              = "video-cdn"
+name = "welcome-mon"
 main              = "worker.js"
 compatibility_date = "2024-07-11"
 workers_dev       = true
