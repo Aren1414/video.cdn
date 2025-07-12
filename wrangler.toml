@@ -1,6 +1,4 @@
-name = "video-cdn"
-type = "javascript"
+name              = "video-cdn"
+main              = "worker.js"
 compatibility_date = "2024-07-11"
-
-[build]
-upload.format = "modules"
+workers_dev       = true
